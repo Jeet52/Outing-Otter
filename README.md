@@ -33,6 +33,26 @@ Built using Swift, the app contains 12 core files, each responsible for differen
 | GamePage | Mini-games to help users bond and socialize through fun interactions. |
 
 ---
+## 📱 Feature Overview
+
+- **Launch Screen:** A welcoming front page when users open the app.  
+- **Home Page:** Central dashboard with tabs for posts, events, games, and friends.  
+- **Post Creation:** Users can create posts to express thoughts or share experiences.  
+- **Event Discovery & Signup:** Users can explore upcoming events, RSVP with a checkbox system, and view event details.  
+- **Friends Page:** View, add, or block friends through intuitive UI interactions.  
+- **Mini-Games:** Play social games with other users to encourage bonding.  
+- **Side Navigation Menu:** Easily switch between app sections using a SwiftUI-powered sidebar.
+
+---
+
+## 💻 Technologies Used
+
+- **Swift & SwiftUI:** Core language and UI framework for building the app.  
+- **Xcode:** Primary development environment.  
+- **Figma:** Used for prototyping UI/UX and backend design planning.  
+- **iOS Simulator:** For testing layout, navigation, and interactions.  
+- **Git & GitHub:** Version control and collaboration.
+
 
 ## Getting Started
 
@@ -55,18 +75,21 @@ We created this app because, as introverts, we wanted a gentle and structured wa
    ```bash
    git clone https://github.com/your-username/outing-otters.git
    cd outing-otters
-Open the project:
+   
+2. Open the project:
 Open OutingOtters.xcodeproj or the workspace file in Xcode.
-Build and run:
+
+3. Build and run:
 Select your target device or simulator.
 Click the Run button (▶️) in Xcode.
-Requirements:
+
+4. Requirements:
 Xcode 14 or higher
 Swift 5+
 iOS 15+ (or specify your minimum deployment target)
 Contribution
 
-We welcome contributions from the community! Here’s how you can help:
+## We welcome contributions from the community! Here’s how you can help:
 
 Fork the repository.
 Create a new branch for your feature or bugfix:
